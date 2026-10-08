@@ -1,0 +1,7 @@
+#thư viện cần để chạy (pip install - r requirements.txt)
+
+opencv-python
+numpy
+mediapipe==0.10.14
+requests
+ultralytics
